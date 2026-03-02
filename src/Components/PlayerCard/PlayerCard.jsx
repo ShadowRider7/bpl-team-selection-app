@@ -1,3 +1,4 @@
+import { toast } from "react-toastify";
 import icon from "../../assets/Group.png";
 import icon2 from "../../assets/Group1.png";
 const PlayerCard = ({
@@ -26,7 +27,7 @@ const PlayerCard = ({
     }
     const playerPrice = parseInt(price.split(",").join(""));
     if (availableBalance < playerPrice) {
-      alert("not enough money");
+      toast("not enough money");
       return;
     }
     setAvailableBalance(availableBalance - playerPrice);
