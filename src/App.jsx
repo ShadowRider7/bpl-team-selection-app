@@ -1,9 +1,9 @@
 import { Suspense, useState } from "react";
+import React from "react";
 import "./App.css";
 import AvailablePlayers from "./Components/AvailablePlayers/AvailablePlayers";
 import Navbar from "./Components/Navbar/Navbar";
 import SelectedPlayers from "./Components/SelectedPlayers/SelectedPlayers";
-import { ToastContainer } from "react-toastify";
 
 const fetchPlayers = async () => {
   const res = await fetch("/players.json");
@@ -71,7 +71,6 @@ function App() {
           purchasedPlayers={purchasedPlayers}
         ></SelectedPlayers>
       )}
-      <ToastContainer />
     </>
   );
 }

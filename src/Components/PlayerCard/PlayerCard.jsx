@@ -30,6 +30,10 @@ const PlayerCard = ({
       toast("not enough money");
       return;
     }
+    if (purchasedPlayers.length === 6) {
+      toast("max player selected already");
+      return;
+    }
     setAvailableBalance(availableBalance - playerPrice);
     setPurchasedPlayers([...purchasedPlayers, player]);
   };
