@@ -1,0 +1,134 @@
+[
+  {
+    "id": 1,
+    "image": "https://i.ibb.co.com/3ymZ98BL/sakib.jpg",
+    "name": "Shakib Al Hasan",
+    "country": "Bangladesh",
+    "role": "All-rounder",
+    "rating": 9.5,
+    "battingStyle": "Left-hand bat",
+    "bowlingStyle": "Slow left-arm orthodox",
+    "price": "150,000"
+  },
+  {
+    "id": 2,
+    "image": "https://i.ibb.co.com/bMLXW1LD/tamim.jpg",
+    "name": "Tamim Iqbal",
+    "country": "Bangladesh",
+    "role": "Batsman",
+    "rating": 8.7,
+    "battingStyle": "Left-hand bat",
+    "bowlingStyle": "",
+    "price": "75,000"
+  },
+  {
+    "id": 3,
+    "image": "https://i.ibb.co.com/qY7wkw8m/andrerussel.jpg",
+    "name": "Andre Russell",
+    "country": "West Indies",
+    "role": "All-rounder",
+    "rating": 9.2,
+    "battingStyle": "Right-hand bat",
+    "bowlingStyle": "Right-arm fast",
+    "price": "130,000"
+  },
+  {
+    "id": 4,
+    "image": "https://i.ibb.co.com/Fb4jxtwm/babar.png",
+    "name": "Babar Azam",
+    "country": "Pakistan",
+    "role": "Batsman",
+    "rating": 9.4,
+    "battingStyle": "Right-hand bat",
+    "bowlingStyle": "Right-arm offbreak",
+    "price": "140,000"
+  },
+  {
+    "id": 5,
+    "image": "https://i.ibb.co.com/G3xKWKL0/musfiqur.png",
+    "name": "Mushfiqur Rahim",
+    "country": "Bangladesh",
+    "role": "Wicketkeeper Batsman",
+    "rating": 8.8,
+    "battingStyle": "Right-hand bat",
+    "bowlingStyle": "",
+    "price": "85,000"
+  },
+  {
+    "id": 6,
+    "image": "https://i.ibb.co.com/SX6ChfYy/narin.jpg",
+    "name": "Sunil Narine",
+    "country": "West Indies",
+    "role": "All-rounder",
+    "rating": 9.0,
+    "battingStyle": "Left-hand bat",
+    "bowlingStyle": "Right-arm offbreak",
+    "price": "110,000"
+  },
+  {
+    "id": 7,
+    "image": "https://i.ibb.co.com/kVKsrV7P/rezwan.webp",
+    "name": "Mohammad Rizwan",
+    "country": "Pakistan",
+    "role": "Wicketkeeper Batsman",
+    "rating": 9.1,
+    "battingStyle": "Right-hand bat",
+    "bowlingStyle": "",
+    "price": "115,000"
+  },
+  {
+    "id": 8,
+    "image": "https://i.ibb.co.com/M5PxrB9Y/moinali.jpg",
+    "name": "Moeen Ali",
+    "country": "England",
+    "role": "All-rounder",
+    "rating": 8.9,
+    "battingStyle": "Left-hand bat",
+    "bowlingStyle": "Right-arm offbreak",
+    "price": "95,000"
+  },
+  {
+    "id": 9,
+    "image": "https://i.ibb.co.com/j9frrZf1/taskin.jpg",
+    "name": "Taskin Ahmed",
+    "country": "Bangladesh",
+    "role": "Bowler",
+    "rating": 8.7,
+    "battingStyle": "Left-hand bat",
+    "bowlingStyle": "Right-arm fast",
+    "price": "70,000"
+  },
+  {
+    "id": 10,
+    "image": "https://i.ibb.co.com/MQb36kv/miller.jpg",
+    "name": "David Miller",
+    "country": "South Africa",
+    "role": "Batsman",
+    "rating": 9.0,
+    "battingStyle": "Left-hand bat",
+    "bowlingStyle": "",
+    "price": "105,000"
+  },
+  {
+    "id": 11,
+    "image": "https://i.ibb.co.com/HfcL2r9y/cuttermaster.webp",
+    "name": "Mustafizur Rahman",
+    "country": "Bangladesh",
+    "role": "Bowler",
+    "rating": 8.8,
+    "battingStyle": "Left-hand bat",
+    "bowlingStyle": "Left-arm fast-medium",
+    "price": "85,000"
+  },
+  {
+    "id": 12,
+    "image": "https://i.ibb.co.com/0j9c37fr/mahmudullah.webp",
+    "name": "Mahmudullah Riyad",
+    "country": "Bangladesh",
+    "role": "All-rounder",
+    "rating": 8.6,
+    "battingStyle": "Right-hand bat",
+    "bowlingStyle": "Right-arm offbreak",
+    "price": "60,000"
+  }
+]
