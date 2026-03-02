@@ -1,2 +1,13 @@
 @import "tailwindcss";
 @plugin "daisyui";
+.Toastify__toast-container {
+  position: fixed !important;
+  z-index: var(--toastify-z-index) !important;
+}
+
+/* Ensure top-center specifically stays centered and fixed */
+.Toastify__toast-container--top-center {
+  top: var(--toastify-toast-offset) !important;
+  left: 50% !important;
+  transform: translateX(-50%) !important;
+}
